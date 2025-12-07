@@ -42,6 +42,13 @@
             "downloadUrl": "https://pan.tenire.com/down.php/bcbbe129e6032fdbee6e2df28fef55e3.exe",
             "changelog": "1.全屏的广播转为窗口广播\n2. 反监视，教师端就无法监视等",
             "showNegativeButton": false
+        },
+        {
+            "appId": "com.qifang.fqy",
+            "version": "1.0.6",
+            "downloadUrl": "https://d.feiliupan.com/你的apk直链.apk",
+            "changelog": "1. 全体起立\n2.发布 ",
+            "showNegativeButton": false
         }
     ]
 }
