@@ -48,7 +48,7 @@
             "version": "1.0.1",
             "downloadUrl": "https://res.viayoo.com/v1/via-release-cn.apk",
             "changelog": "1.全体起立  \n2.发布 ",
-            "showNegativeButton": false
+            "showNegativeButton": true
         }
     ]
 }
