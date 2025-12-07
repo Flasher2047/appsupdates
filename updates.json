@@ -45,7 +45,7 @@
         },
         {
             "appId": "com.qifang.fqy",
-            "version": "1.0.1",
+            "version": "1.0.0",
             "downloadUrl": "https://res.viayoo.com/v1/via-release-cn.apk",
             "changelog": "1.全体起立  \n2.发布 ",
             "showNegativeButton": true
