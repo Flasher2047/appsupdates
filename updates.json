@@ -45,9 +45,9 @@
         },
         {
             "appId": "com.qifang.fqy",
-            "version": "1.0.1",
-            "downloadUrl": "https://hk.gh-proxy.org/https://github.com/Flasher2047/appsupdates/releases/download/1.0.1/fqy_1.0.1_arm64-v8a_release.apk",
-            "changelog": "1.修复模拟授权检测\n2.优化速度生效 ",
+            "version": "1.0.2",
+            "downloadUrl": "https://hk.gh-proxy.org/https://github.com/Flasher2047/appsupdates/releases/download/1.0.2/fqy_1.0.2_arm64-v8a_release.apk",
+            "changelog": "1.尝试修复页面跳转\n2.优化开发者打开逻辑 ",
             "showNegativeButton": true
         }
     ]
